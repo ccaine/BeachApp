@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "146936336903",
+    "firebase_url": "https://beachapp-d760d.firebaseio.com",
+    "project_id": "beachapp-d760d",
+    "storage_bucket": "beachapp-d760d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146936336903:android:669e81477ed60aec",
+        "android_client_info": {
+          "package_name": "com.example.cinde.beachapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146936336903-ma379j304qj3no3ojqjq6ngn6milelfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinde.beachapp",
+            "certificate_hash": "4c7a1876e688e6e455f3896d3f7ef56f5c4b4411"
+          }
+        },
+        {
+          "client_id": "146936336903-5niqt5f6fak6qs5othfsg7v8rldu2g64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXrkwAb7XShHt-2I40HDWJZWTMn31zTLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146936336903-5niqt5f6fak6qs5othfsg7v8rldu2g64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
